@@ -109,17 +109,16 @@ label sqb_remy_m1_start:
     else:
        pass
     
-    Ry look "T-that's not something you should reveal on a first date with... someone."
+    Ry shy "T-that's not something you should reveal on a first date..."
     c "We're on a date? Your interest in meeting me wasn't strictly professional?"
     Ry sad "..."
-    c "Just kidding, I wouldn't mind if this was a date. You're super nice, Remy."
-    $ renpy.pause (0.5)  
+    c "Just kidding, I wouldn't mind if this was a date. You're super nice, Remy." 
     show remy shy with dissolve
     c "Anyway, I was offended a little bit by how ugly you dragons think humans are."
     Ry normal "I agree that female humans in our media aren't very nice to look at, and I'm actually relieved to hear that we got it wrong. I just assumed ugliness is the reason you cover your bodies."
     c "Not at all. I guarantee I'm smooth and round underneath my clothes."
     $ renpy.pause (1.0) 
-    c "I could even show you if you asked nicely. We have to correct this misunderstanding."
+    c "I could even show you if you asked nicely. We have to correct this gross misunderstanding."
     show remy shy with dissolve
     $ renpy.pause (2.0) 
     Ry smile "You would do that for me!? I can't begin to describe how excited the prospect of breaking new ground makes me right now."
@@ -129,7 +128,7 @@ label sqb_remy_m1_start:
     c "{i}Anything?{i}"
     c "Well, I've seen most of you already since you barely wear any clothing." 
     c "There's still something you could do for me."
-    Ry "Yes? Go on, break the suspense and tell me already."
+    Ry "Yes? Go on, break the suspense and tell me what it is already."
     c "Well, uhh...{w} when browsing through your favorite porn I was surprised by the size and shape of dragon genitalia, so could you show me yours? Only if you'd feel comfortable doing that, of course."
     Ry shy "..."
     m "I noticed him fidget around and start panting due to my sudden sexual advance."
@@ -158,7 +157,7 @@ label sqb_remy_m1_start:
     play soundloop "fx/rub2.ogg"
     c "(Looks like all of his male parts are internal. I wonder if his testicles are inside him somewhere over here?)"
     $ renpy.pause (1.0)
-    m "Then, sitting next to him on the bed made me fully realize just how much bigger he actually was compared to me."
+    m "Then, sitting next to him on the bed for a minute made me finally realize just how much bigger he actually was compared to me."
     c "(This stud of a dragon must be at least four to five times bigger than I am. I would feel slightly intimidated if I didn't already know that he likes humans a lot. Even for such a nerdy boy there's some muscle and mass to admire.)"
     $ renpy.pause (1.0)
     Ry "..."
@@ -196,7 +195,7 @@ label sqb_remy_m1_start:
     play sound "fx/lewd/blowjob.ogg"
     show remy shy with dissolve
     m "To finish off my exploration efforts, I engulfed Remy's large tip in my mouth and gave it an audible suck."
-    Ry "Ah... you're enjoying it, aren't you?"
+    Ry "Ah... you're enjoying it a lot, aren't you?"
     $ renpy.pause (2.0)
     m "After I pulled back, I was again astonished by the shape and size of Remy's dick."
     c "I've never seen a penis that tapers at the tip like this."
@@ -212,8 +211,8 @@ label sqb_remy_m1_start:
     c "I thought that would be blatantly obvious by now. Did you seriously think that I have just been teasing you all this time?"    
     c "We have to be careful though, because your dick is too long to completely fit inside me." 
     c "So, you can't hilt yourself inside me under any circumstance, no matter how much you want to. You don't want to break your favorite human, do you?"
-    Ry normal "I would never do something like that!"
-    c "We'll do it slowly at first in order find out how much of you I can take."
+    Ry normal "I would never do something like that! You can place your trust in me."
+    c "Thank you, Remy. We'll do it slowly at first in order find out how much of you I can take."
     $ renpy.pause (1.0)
     show remy shy with dissolve
     play sound "fx/lewd/lickslow.ogg"
@@ -222,7 +221,7 @@ label sqb_remy_m1_start:
     Ry "W-wait a second. Umm...{w} d-do you want to use protection with me?"    
     c "I don't have any condoms on me, not that I would want to use one anyway, unless you really insisted. Seeing your porn made me want a huge mess in my pussy with your dragon tool. I want you to fill me up well and good."
     Ry smile "It just so happens that's exactly what I wanted to do as well. Actually, I've fantasized about breeding you ever since I realized you were a female of your species."
-    c "Remy, even though I said I didn't want to use protection, do you think you should be telling me something like that on our first time?"
+    c "Remy, even though I said I didn't want to use protection, do you think you should be telling me something like that on our first time doing it?"
     Ry shy "S-sorry...{w} I just can't stop thinking about it."
     $ renpy.pause (1.0)
     c "About what?"
@@ -238,7 +237,7 @@ label sqb_remy_m1_start:
     Ry normal "I'll try my best! I know I am extremely virile."
     c "(I've been looking for a husband like you for a while now, so I'll just marry you even if we can't have biological kids. I'm not so sure if our species can crossbreed.)"
     c "Let's get to it then. Time to find out how strong your seed is."
-    Ry shy "Wait a second."
+    Ry shy "Wait a second. There's one more thing."
     Ry "Actually, I'm not so sure if we should be having sex in my office."
     Ry normal "Like I said, there is no one working in this part of the building at this time, but what if someone wandering around comes to check out the noise? The janitor is probably still around."
     Ry "Could we just go over to my place?"
@@ -253,19 +252,19 @@ label sqb_remy_m1_start:
     play sound "fx/sheet.wav"
     m "With those words, Remy slid off the bed and at the same time I laid on it perpendicularly on my stomach. Remy was behind me, watching with glee the entire time as I was getting into position."
     c "How about some lubrication? Let's put your tongue into use."
-    Ry "Oh, of course."
+    Ry "Oh, of course. I hope that you will like that part of me as well."
     m "When I steadied myself on my legs and raised my backside up, I felt Remy lean his head towards my ass in an instant."
     $ renpy.pause (2.0)
     m "I felt his hot breath on my pussy and after a few moments his big, wet dragon tongue started dragonhandling my labia and vulva."
     play soundloop "fx/lewd/lickslow.ogg"
     c "Aah..."
-    Ry "How is it?"
+    Ry "How does it feel? As for me, human vaginas feel... different."
     c "It f-feels great, Remy. You can go deeper if you want."
     m "With my permission, Remy penetrated deep into my vagina with his tongue while also massaging my clit with it."
     c "Ahh!" with vpunch
     m "Remy tried to mumble something, but I couldn't hear him because he was deep in my pussy. Then, he pushed even deeper, and I felt a strange feeling in my lower belly. His tongue made it all the way to my cervix."
     c "Mmm... that's my most inner sanctum. I'm giving you permission to put a child in there. You're going to be the only one who's allowed to do that."
-    m "As a response, I only could hear some horny grunts and pants from Remy. I imagined that Remy's dick probably perked up in attention as well, ready to go."
+    m "As a response, I only could hear some horny grunts and pants from Remy. I imagined that Remy's dick probably perked up in attention as well, ready to go at a moment's notice."
     $ renpy.pause (2.0)
     c "Let's move onto the main course. I want to orgasm as you impregnate me with your brood."
     stop soundloop fadeout 1.0
@@ -292,25 +291,26 @@ label sqb_remy_m1_start:
     play sound "fx/lewd/penslow.ogg"
     queue sound "fx/lewd/penfast.ogg"
     m "Remy leaned down from behind and licked my cheek and mouth with his wet tongue."
-    Ry "I love you, [player_name]. I want to make children with you."
+    Ry "I love you, [player_name]. I want to make many children with you."
     c "Then you better start pushing in before we die of old age."
     play sound "fx/lewd/pussy.ogg"
     queue sound "fx/lewd/penslow.ogg"
-    m "Remy complied, and I started feeling his hot dragon rod pushing properly making its way into me."
+    queue sound "fx/lewd/penslow.ogg"
+    m "Remy complied, and I started feeling his hot dragon rod pushing forward properly, forcing its way into me."
     c "You're such a big boy, Remy. Keep going."
     play sound "fx/lewd/penfast.ogg"
     queue sound "fx/lewd/penslow.ogg"
-    m "He kept pushing in slowly. Because his dick was bigger than any dildo I had ever used, my pussy was stretching desperately to be able to fit him."
+    m "He kept pushing in slowly. Because his dick was much bigger than any penis or dildo that I had ever had, my pussy was now stretching desperately to be able to fit him."
     play sound "fx/lewd/blowjob.ogg"
     queue sound "fx/lewd/penslow.ogg"
     m "Then, after being filled by Remy's dragon dick for a couple of long seconds more, he slowed down and I again felt the strange feeling in my lower belly."
     c "There. This is as as far as you can go, for now."
-    Ry "Got it. I could feel a bit more resistance so I slowed down."
+    Ry "Got it. I could feel a bit more resistance, so I slowed down."
     c "Now, pull yourself back and penetrate me all the way in slowly."
     play sound "fx/lewd/penslow.ogg"
     queue sound "fx/lewd/penfast.ogg"
     queue sound "fx/lewd/pussy.ogg"
-    m "With my permission, Remy partially pulled out and then re-speared me with his massive dragon shaft, which caused me to shudder and made my pussy let out an audible squelch."
+    m "With my permission, Remy partially pulled out and then re-speared me with his massive dragon shaft, which caused me to shudder and made my pussy let out some more audible squelches."
     m "I could feel my breeding hole start to shape up even more to accommodate Remy's size better."
     c "You're such a big fucking stud, Remy. My pussy is about to get destroyed so badly that I won't feel anything if I ever decide to have sex with a human again."
     m "Remy only replied with several grunts and pants and then I felt some of his saliva drop on my back."
@@ -346,7 +346,7 @@ label sqb_remy_m1_start:
     $ renpy.pause (2.0)
     play sound "fx/kiss.wav"
     show remy shy with dissolve
-    m "Fully spent after deposing his load into my pussy, Remy slumped on top of me and started kissing and licking my neck."
+    m "Fully spent after depositing his load into my pussy, Remy slumped on top of me and started kissing and licking my neck."
     play sound "fx/lewd/lickslow.ogg"
     queue sound "fx/lewd/lickslow.ogg"
     $ renpy.pause (6.0)
@@ -370,7 +370,7 @@ label sqb_remy_m1_start:
     $ renpy.pause (4.0)    
     show remy normal with dissolve
     m "We lay there together for a long while more, not wanting to go back to our mundane, everyday lives."
-    Ry shy "H-hey..."
+    Ry shy "H-hey... just a thought."
     c "Yeah?"
     Ry "Are you s-sure you want to crossbreed with me? Starting a f-family is a pretty big commitment...{w} and we aren't even of the same species."
     c "(Seems that he still has some doubts and self-esteem issues.)"
@@ -419,7 +419,7 @@ label sqb_remy_m1_start:
     Ry "Just call me up whenever you have some free time from your important duties."
     Ry smile "I mean, I can't wait to be with you again as well, [player_name]."
     Ry normal "Let's meet at my apartment to in order to avoid any unnecessary surprises during sex. I'll even cook you dinner to repay for all the help you did for me."
-    c "Thank you for the offer. I would love that kind of a date a lot."
+    c "Thank you for the offer. I would love that kind of date a lot."
     c "You sure you're fine cleaning up over here all by yourself?"
     Ry "Sure. Leave it all to me."
     c "Alright. See ya."
