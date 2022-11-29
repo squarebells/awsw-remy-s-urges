@@ -1,0 +1,7 @@
+*.pyo
+*.py.old
+*.rpyc
+*.txt
+*.xcf
+*.jpg.old
+*.png.old
