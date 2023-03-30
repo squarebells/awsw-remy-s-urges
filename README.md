@@ -1,6 +1,6 @@
 # Remy's urges
 
-A fun new mod that lets you get to know Remy a bit better starting from the first chapter. Starts from when you check out Remy's computer and requirements are at least 10 mood and not having selected your player character's sex as female beforehand in any of BangOk's content. Yes, this is NSFW.
+A fun new mod that lets you get to know Remy a bit better starting from the first chapter. Starts from when you check out Remy's computer and requirements are at least 10 mood and not having selected your player character's sex as male beforehand in any of BangOk's content. Yes, this is NSFW.
 
 ### Requirements:
  + Community Resource and Assets Pack by Jakzie2, Eval, 4onen, Azrynfolf and Ryann. [GitHub](https://gitlab.com/jakzie2/awsw-crap) [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2665870882)
